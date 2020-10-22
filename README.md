@@ -14,4 +14,3 @@ __CRUD__ *(Create-Read-Update-Delete)*
 >> *Read* adalah membaca data dari *database*.
 >> *Update* adalah mengubah data pada *database*.
 >> *Delete* adalah menghapus data dari *database*.
-
