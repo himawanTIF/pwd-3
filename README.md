@@ -11,6 +11,9 @@
 __CRUD__ *(Create-Read-Update-Delete)*
 > Operasi *CRUD* adalah manipulasi data dasar untuk *database*.
 >> *Create* adalah membuat data atau memasukkan data ke dalam *database*.
+>
 >> *Read* adalah membaca data dari *database*.
+>
 >> *Update* adalah mengubah data pada *database*.
+>
 >> *Delete* adalah menghapus data dari *database*.
