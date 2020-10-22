@@ -7,7 +7,8 @@
 [Link Video Praktikum](https://drive.google.com/file/d/1cNilODZdYQlZmsbG_UDd26h3aQvEfo6k/view)
 
 ### Materi :
-__CRUD__ *(Create-Read-Update-Delete)*
 
+__CRUD__ *(Create-Read-Update-Delete)*
+> Operasi *CRUD* adalah manipulasi data dasar untuk *database*.
 
 
